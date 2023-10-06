@@ -1,1 +1,1 @@
-# convolutions
+An ongoing development project testing Convolutional nueral networks and image interpretation. Using different forms of kernels on a variable amount of convolutional layers, this project is meant to test the ability for a program to interpret images and output new images
